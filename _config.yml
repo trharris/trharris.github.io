@@ -3,12 +3,12 @@
 title:            Site Title
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: T. Robert Harris
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Hi, I'm Robert. I'm an electrical engineer."
   email: #emailaddress
   disqus-shortname:
   twitter: #username
